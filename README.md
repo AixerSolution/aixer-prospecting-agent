@@ -1,5 +1,7 @@
 # Aixer Solutions — Prospecting Agent v1
 
+**GitHub:** https://github.com/AixerSolution/aixer-prospecting-agent
+
 An AI-powered daily lead generation system for [Aixer Solutions](https://www.aixers.com). Finds Singapore SMEs, scores their fit for AI consultancy services, and drafts personalised cold emails.
 
 ## How it works
