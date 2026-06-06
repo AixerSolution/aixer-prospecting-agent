@@ -1,0 +1,216 @@
+{
+  "version": "1.0",
+  "description": "Singapore SME AI consultancy prospecting search queries — Aixer Solutions",
+  "sectors": {
+    "Manufacturing & Logistics": {
+      "queries": [
+        "Singapore Business Federation member manufacturing logistics SME",
+        "SBF directory Singapore manufacturer logistics company SME",
+        "Singapore manufacturing SME supply chain automation 2024 2025",
+        "Singapore warehouse hiring operations team 2024",
+        "Singapore logistics company expanding fleet 2024 2025",
+        "Singapore factory hiring operations coordinator 2024",
+        "Singapore 3PL fulfillment company growing 2024",
+        "Singapore manufacturer digital transformation investment",
+        "Singapore SME manufacturer ERP upgrade 2024",
+        "Singapore logistics startup funding raised 2024 2025"
+      ],
+      "seed_companies": [
+        { "name": "Wong Hing Long Technologies Pte Ltd", "sub_sector": "precision engineering", "website": "wonghinglong.com.sg" },
+        { "name": "Starlight Precision Engineering Pte Ltd", "sub_sector": "precision engineering", "website": "sl-machining.com" },
+        { "name": "Shine Precision Engineering Pte Ltd", "sub_sector": "precision engineering", "website": "shineprecision.com" },
+        { "name": "Team-Metal Pte Ltd", "sub_sector": "precision machining", "website": "teammetal.com" },
+        { "name": "Disk Precision Pte Ltd", "sub_sector": "CNC machining", "website": "diskprecision.com" },
+        { "name": "Soon Seng Food Industry Pte Ltd", "sub_sector": "food manufacturing", "website": "soonseng.com.sg" },
+        { "name": "Leong Guan Holdings Pte Ltd", "sub_sector": "food manufacturing", "website": "leongguan.com" },
+        { "name": "Thong Siek Food Industry Pte Ltd", "sub_sector": "food manufacturing" },
+        { "name": "NPE Print Communications Pte Ltd", "sub_sector": "packaging & printing", "website": "npeprint.com" },
+        { "name": "Winson Press Pte Ltd", "sub_sector": "commercial printing", "website": "winson.com" },
+        { "name": "KS Packaging Pte Ltd", "sub_sector": "packaging", "website": "kspack.com.sg" },
+        { "name": "Packman Pte Ltd", "sub_sector": "packaging supply", "website": "packman.sg" },
+        { "name": "MAK Logistic Pte Ltd", "sub_sector": "3PL warehousing", "website": "maklogistic.com" },
+        { "name": "iHub Solutions Pte Ltd", "sub_sector": "e-commerce 3PL fulfillment", "website": "ihubsolutions.com" },
+        { "name": "MillionParcel Pte Ltd", "sub_sector": "e-commerce packaging & fulfillment", "website": "millionparcel.sg" }
+      ],
+      "pain_signals": [
+        "hiring operations coordinators at scale without automation",
+        "expanding warehouse capacity manually",
+        "implementing legacy ERP under pressure",
+        "supply chain delays and stockouts",
+        "manual inventory tracking across multiple locations"
+      ],
+      "service_fit": ["process_automation", "supply_chain_visibility", "multi_agent_orchestration"]
+    },
+    "Retail & E-commerce": {
+      "queries": [
+        "Singapore Business Federation member retail e-commerce SME",
+        "SBF directory Singapore retailer e-commerce company",
+        "Singapore e-commerce brand growing Shopify 2024 2025",
+        "Singapore online retailer hiring customer support team 2024",
+        "Singapore D2C brand funding raised 2024 2025",
+        "Singapore retail company expanding omnichannel 2024",
+        "Singapore e-commerce startup Series A 2024 2025",
+        "Singapore fashion brand direct-to-consumer expansion",
+        "Singapore retailer hiring data analyst operations",
+        "Singapore marketplace seller scaling operations 2024"
+      ],
+      "pain_signals": [
+        "customer support volume scaling faster than team",
+        "inventory management across multiple channels",
+        "returns processing bottleneck",
+        "personalisation at scale without data team",
+        "multi-channel order management chaos"
+      ],
+      "service_fit": ["customer_ai", "process_automation", "multi_agent_orchestration"]
+    },
+    "Financial Services": {
+      "queries": [
+        "Singapore Business Federation member financial services fintech SME",
+        "SBF directory Singapore fintech insurance wealth management company",
+        "Singapore fintech startup hiring engineers 2024 2025",
+        "Singapore digital lending platform raising funding 2024",
+        "Singapore insurance startup automation 2024",
+        "Singapore wealth management platform digitisation",
+        "Singapore MAS licensed fintech company growth",
+        "Singapore SME lending platform expanding 2024",
+        "Singapore accounting software startup hiring",
+        "Singapore compliance regtech company 2024 2025"
+      ],
+      "pain_signals": [
+        "compliance reporting manual process consuming resources",
+        "fraud detection requiring manual review queue",
+        "customer KYC onboarding bottleneck",
+        "loan underwriting manual and slow",
+        "regulatory reporting labour-intensive"
+      ],
+      "service_fit": ["process_automation", "customer_ai", "multi_agent_orchestration"]
+    },
+    "Professional Services": {
+      "queries": [
+        "Singapore Business Federation member professional services consulting SME",
+        "SBF directory Singapore law firm accounting consulting company",
+        "Singapore law firm hiring technology roles 2024 2025",
+        "Singapore accounting firm automation investment",
+        "Singapore consulting firm growing headcount 2024",
+        "Singapore HR consulting digital transformation",
+        "Singapore recruitment agency AI hiring 2024",
+        "Singapore architecture engineering firm digitising",
+        "Singapore audit firm process improvement 2024",
+        "Singapore professional services company scaling"
+      ],
+      "pain_signals": [
+        "document review and contract analysis manual",
+        "billing invoicing and collections manual process",
+        "knowledge management gaps across teams",
+        "proposal writing time-intensive",
+        "research and analysis bottleneck slowing delivery"
+      ],
+      "service_fit": ["process_automation", "multi_agent_orchestration", "customer_ai"]
+    },
+    "Education": {
+      "queries": [
+        "Singapore Business Federation member education training SME",
+        "SBF directory Singapore tuition centre enrichment school company",
+        "Singapore tuition centre chain expanding 2024 2025",
+        "Singapore private education institution hiring teachers 2024",
+        "Singapore enrichment centre scaling operations 2024 2025",
+        "Singapore edtech startup funding raised 2024 2025",
+        "Singapore corporate training company growing 2024",
+        "Singapore language school digital transformation 2024",
+        "Singapore preschool chain expanding new outlets 2024 2025",
+        "Singapore skills training provider SkillsFuture approved 2024"
+      ],
+      "pain_signals": [
+        "manual student enrolment and scheduling across multiple centres",
+        "tutor-to-student matching and timetabling done in spreadsheets",
+        "parent communication and progress updates handled manually",
+        "corporate training scheduling and attendance tracking manual",
+        "student payment collection and reminders managed by admin staff"
+      ],
+      "service_fit": ["process_automation", "customer_ai", "multi_agent_orchestration"]
+    },
+    "Wholesale and Retail Trade": {
+      "queries": [
+        "Singapore Business Federation member wholesale retail trade SME",
+        "SBF directory Singapore wholesale distributor retail company",
+        "Singapore wholesale distributor hiring operations team 2024 2025",
+        "Singapore retail chain expanding stores 2024 2025",
+        "Singapore FMCG distributor inventory management pain 2024",
+        "Singapore wholesale SME digital transformation 2024",
+        "Singapore retailer omnichannel expansion hiring 2024 2025",
+        "Singapore trading company operations scaling 2024",
+        "Singapore wholesale food beverage distributor growing",
+        "Singapore consumer goods distributor automation investment"
+      ],
+      "pain_signals": [
+        "manual order processing and inventory reconciliation across branches",
+        "wholesale pricing and discount management done in spreadsheets",
+        "distributor route planning and delivery tracking manual",
+        "multi-location stock visibility gaps causing stockouts or overstock",
+        "customer reorder reminders and follow-ups done manually"
+      ],
+      "service_fit": ["process_automation", "multi_agent_orchestration", "customer_ai"]
+    },
+    "Healthcare": {
+      "queries": [
+        "Singapore Business Federation member healthcare medtech SME",
+        "SBF directory Singapore clinic hospital health company",
+        "Singapore telemedicine platform growing 2024 2025",
+        "Singapore clinic management software company",
+        "Singapore digital health startup funding 2024",
+        "Singapore medtech company Series A B 2024",
+        "Singapore hospital digitisation initiative 2024",
+        "Singapore health insurance digital platform",
+        "Singapore pharmaceutical company automation 2024",
+        "Singapore dental clinic chain expanding 2024"
+      ],
+      "pain_signals": [
+        "appointment scheduling and reminders manual",
+        "patient records management fragmented",
+        "billing and insurance claims processing slow",
+        "patient engagement and follow-up manual",
+        "clinical operations reporting manual"
+      ],
+      "service_fit": ["process_automation", "customer_ai", "multi_agent_orchestration"]
+    },
+    "Construction": {
+      "queries": [
+        "Singapore Business Federation member construction SME",
+        "SBF directory Singapore construction contractor building company",
+        "Singapore construction company BCA registered hiring 2024 2025",
+        "Singapore general contractor expanding project pipeline 2024",
+        "Singapore M&E contractor growing headcount 2024 2025",
+        "Singapore construction firm project management digitisation 2024",
+        "Singapore SME building contractor operations scaling 2024",
+        "Singapore interior fit-out company growing 2024 2025",
+        "Singapore civil engineering SME manpower challenges 2024",
+        "Singapore construction company BIM adoption digital transformation"
+      ],
+      "seed_companies": [
+        { "name": "Beng Hwa Builders Pte Ltd", "uen": "199507356H", "bca_grade": "CW01 C2" },
+        { "name": "BM Building Pte Ltd", "uen": "199402363D", "bca_grade": "CW01 C2" },
+        { "name": "Arena Construction Pte Ltd", "uen": "199501741C", "bca_grade": "CW01 C2" },
+        { "name": "Sing & San Construction Pte Ltd", "uen": "198401867W", "bca_grade": "CW01 C2 / CW02 B2", "website": "singnsan.com.sg" },
+        { "name": "Ever San Construction Pte Ltd", "uen": "198802905E", "bca_grade": "CW01 C3 / CW02 C2", "website": "eversanconstruction.com" },
+        { "name": "Actus Builders Pte Ltd", "uen": "199101840K", "bca_grade": "CW01 B2 / CW02 B2" },
+        { "name": "Bestlink Construction Pte Ltd", "uen": "199603379E", "bca_grade": "CW01 B2", "website": "bestlink.com.sg" },
+        { "name": "Anchorage Construction Co Pte Ltd", "uen": "198201230H", "bca_grade": "CW01 B1 / CW02 B2", "website": "anchorage.com.sg" },
+        { "name": "Khian Heng Construction (Private) Limited", "uen": "197501623M", "bca_grade": "CW02 C2" },
+        { "name": "Join Ages Construction Pte Ltd", "uen": "199802494C", "bca_grade": "CW02 C2" },
+        { "name": "Advanced Construction & Engineering Pte Ltd", "bca_grade": "CW02 C2" },
+        { "name": "Kori Construction (S) Pte Ltd", "uen": "198205477K", "bca_grade": "CW02 C2" },
+        { "name": "Megabuilders & Development Pte Ltd", "uen": "200601566K", "bca_grade": "CW01 B1", "known_contact": "Desmond Chua" },
+        { "name": "Oung Construction (S) Pte Ltd", "uen": "199504483Z", "bca_grade": "CW01 B1", "website": "oung.com.sg" },
+        { "name": "Global Civil Engineering Pte Ltd", "uen": "201528716H", "bca_grade": "CW01 / CW02" }
+      ],
+      "pain_signals": [
+        "project scheduling and subcontractor coordination done in spreadsheets",
+        "site progress reporting and documentation manual",
+        "manpower deployment and timesheet tracking inefficient",
+        "procurement and purchase order approvals slow and paper-based",
+        "client progress updates and variation order tracking manual"
+      ],
+      "service_fit": ["process_automation", "multi_agent_orchestration", "customer_ai"]
+    }
+  }
+}
